@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 
 
 Driven, curious, aspiring junior software developer. I have a degree in Philosophy and Theology and previous experience includes Licensing Assistant, Sales Executive and Charity Manager. 
 
