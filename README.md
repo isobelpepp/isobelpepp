@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-Driven, curious, aspiring junior software developer. I have a degree in Philosophy and Theology and previous experience includes Licensing Assistant, Sales Executive and Charity Manager. 
+Junior software developer currently working on a database management system using Vue.js, Express, Node.js and MongoDB. I have a degree in Philosophy and Theology and previous experience includes Licensing Assistant, Sales Executive and Charity Manager. 
 
 ![](https://github-readme-stats.vercel.app/api?username=isobelpepp&count_private=true&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isobelpepp&layout=compact&theme=buefy)
